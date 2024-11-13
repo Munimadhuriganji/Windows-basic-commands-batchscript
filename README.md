@@ -1,8 +1,5 @@
 # Ex08-Windows-basic-commands-batchscript
 
-### Name: GANJI MUNI MADHURI
-### Register No: 212223230060
-### Date:18.10.2024
 
 ## AIM:
 To execute Windows basic commands and batch scripting
